@@ -1,4 +1,4 @@
-## Employee Leave Management System 
+# Employee Leave Management System 
 "Employee Leave management system" is a computer program. The primary
 function of the system is to display and facilitate the collection of data about
 workers' leave information. Employers could gain insight into their employees via
@@ -28,7 +28,7 @@ add and manage leave types. Admins may add and manage Employees.
 Employees must join up to log in and apply for leave.
 
 
-# PURPOSE OF THE PROJECT
+## PURPOSE OF THE PROJECT
 This project is aimed at developing a web-based Leave Management Tool, which
 is of importance to either an organization or a college. This is an Intranet based
 application that can be accessed throughout the organization or a specified
@@ -37,7 +37,7 @@ applications and their approvals. There are features like cancellation of leave,
 approval of leave, report generators etc. in this Tool.
 
 
-# SYSTEM ANALYSIS
+## SYSTEM ANALYSIS
 After analyzing the requirements of the task to be performed, the next step is to
 analyze the problem and understand its context. The first activity in the phase is
 studying the existing system and other is to understand the requirements and
@@ -49,7 +49,7 @@ of existing running system is also difficult, improper understanding of present
 system can lead diversion from solution.
 
 
-# ANALYSIS MODEL
+## ANALYSIS MODEL
 The model that is basically being followed is the WATERFALL MODEL, which states
 that the phases are organized in a linear order. First of all, the feasibility study is
 done. Once that part is over the requirement analysis and project planning
